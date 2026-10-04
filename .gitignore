@@ -42,6 +42,7 @@ data/offline_cache/
 # IDE / editor files
 .vscode/
 .idea/
+.vs/
 *.swp
 *.swo
 .DS_Store
